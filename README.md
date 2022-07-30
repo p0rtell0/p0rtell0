@@ -1,5 +1,5 @@
-Computer Engineering Student,
-Infant Programmer
+BSc Computer Engineering, NYU (Junior)
+Developing programmer/engineer
 
 <!---
 p0rtell0/p0rtell0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
